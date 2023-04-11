@@ -30,7 +30,7 @@ print(termcolor.colored(("""
          ___) |__) |  _  | |_) | |  | |_| | ||  __/  _| (_) | | | (_|  __/ |    
         |____/____/|_| |_|____/|_|   \__,_|\__\___|_|  \___/|_|  \___\___|_|    
 
-                        | Coded By: Muhammad Zaki - @itismuzak |                                                                               
+                        | Coded By: Muhammad Zaki - @muzakonthecode |                                                                               
 """), 'yellow'))
 
 host = input("[+] Enter the Target's Host : ")
